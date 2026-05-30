@@ -1,0 +1,88 @@
+['cat_potion'] = {
+    label = '猫ポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むと猫になるポーション',
+    client = {
+		image = "cat_potion.png",
+        export = 'animal_potion.cat_potion'
+    }
+},
+['coyote_potion'] = {
+    label = 'コヨーテポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むとコヨーテになるポーション',
+    client = {
+		image = "coyote_potion.png",
+        export = 'animal_potion.coyote_potion'
+    }
+},
+['rat_potion'] = {
+    label = 'ねずみポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むとねずみになるポーション',
+    client = {
+		image = "rat_potion.png",
+        export = 'animal_potion.rat_potion'
+    }
+},
+['lion_potion'] = {
+    label = 'ライオンポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むとライオンになるポーション',
+    client = {
+		image = "lion_potion.png",
+        export = 'animal_potion.lion_potion'
+    }
+},
+['deer_potion'] = {
+    label = '鹿ポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むと鹿になるポーション',
+    client = {
+		image = "deer_potion.png",
+        export = 'animal_potion.deer_potion'
+    }
+},
+['chimp_potion'] = {
+    label = 'チンパンジーポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むとチンパンジーになるポーション',
+    client = {
+		image = "chimp_potion.png",
+        export = 'animal_potion.chimp_potion'
+    }
+},
+['dog_potion'] = {
+    label = '犬ポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むと犬になるポーション',
+    client = {
+		image = "husky_potion.png",
+        export = 'animal_potion.dog_potion'
+    }
+},
+['farm_potion'] = {
+    label = '農場動物ポーション',
+    weight = 100,
+    stack = true,
+    close = true,
+    description = '飲むと農場動物になるポーション',
+    client = {
+		image = "farm_potion.png",
+        export = 'animal_potion.farm_potion'
+    }
+},
